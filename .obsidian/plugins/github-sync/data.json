@@ -1,6 +1,6 @@
 {
   "remoteURL": "https://github.com/resolutesx/Obsidian.git",
-  "gitLocation": "",
+  "gitLocation": "C:\\Program Files\\Git\\cmd\\",
   "syncinterval": 0,
-  "isSyncOnLoad": false
+  "isSyncOnLoad": true
 }
