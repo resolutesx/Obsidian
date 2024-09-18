@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note.md",
+                "file": "CPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note.md",
+                "file": "CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note.md",
+                "file": "CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note.md"
+                "file": "CPU.md"
               }
             }
           }
@@ -149,7 +149,11 @@
   },
   "active": "5a21a42a77974ff7",
   "lastOpenFiles": [
-    "test File.md",
-    "Note.md"
+    "Ink/Drawing/2024.9.18 - 15.47pm.drawing",
+    "Ink/Drawing/2024.9.18 - 15.44pm.drawing",
+    "CPU.md",
+    "Ink/Drawing",
+    "Ink",
+    "test File.md"
   ]
 }
