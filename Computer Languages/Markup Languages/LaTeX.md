@@ -1,1 +1,0 @@
-==LaTeX Is a mark up language primarily for creating mathematical symbols and equations, but generally it is made for styling and creating documents==

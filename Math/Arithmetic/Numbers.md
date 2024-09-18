@@ -13,9 +13,9 @@ Includes All Natural Numbers (N ⊆ Z) and negative numbers
 ###### Rational Numbers (Q)
 
 Identified as Q
-Any result that $$  \dfrac{ a  }{ b  }   $$$$b \neq 0
+Any result that $$  \dfrac{ a  }{ b  }\   $$$$b \neq\ 0
 $$
-Q = {  $$\frac{2}{3}
+Q = {  $$\frac{2}{3}\
 $$$$\frac{-5}{8}$$
 ![[Number System.png]]
 ##### Sets And Subsets
