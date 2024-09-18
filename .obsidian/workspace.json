@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaghetti fr.md",
+                "file": "Skidibi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaghetti fr.md",
+                "file": "Skidibi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaghetti fr.md",
+                "file": "Skidibi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaghetti fr.md"
+                "file": "Skidibi.md"
               }
             }
           }
@@ -150,6 +150,6 @@
   "active": "5a21a42a77974ff7",
   "lastOpenFiles": [
     "test File.md",
-    "Spaghetti fr.md"
+    "Skidibi.md"
   ]
 }
