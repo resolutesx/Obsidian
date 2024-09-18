@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0a46e663921886",
+        "id": "bb3ff0d56141af01",
         "type": "tabs",
         "children": [
           {
-            "id": "5a21a42a77974ff7",
+            "id": "e79fd800423bf9d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8376f46b5ed2ac31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU.md",
+                "file": "Math/Arithmetic/Numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc12c3c5d8fcd8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Arithmetic/Numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9604d4f0eb84889b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Arithmetic/Numbers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU.md",
+                "file": "Math/Arithmetic/Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU.md",
+                "file": "Math/Arithmetic/Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU.md"
+                "file": "Math/Arithmetic/Numbers.md"
               }
             }
           }
@@ -147,11 +180,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5a21a42a77974ff7",
+  "active": "9604d4f0eb84889b",
   "lastOpenFiles": [
+    "Computer Languages/Markup Languages/LaTeX.md",
+    "Images/Number System.png",
+    "Math/Arithmetic/Numbers.md",
+    "Math/Arithmetic/Symbols.md",
+    "Computer Languages/Markup Languages",
+    "Computer Languages",
+    "Images",
+    "Math/Arithmetic/Subset (⊆).md",
+    "Math/Arithmetic/Arithmetic.md",
+    "Math/Arithmetic/Integer Numbers.md",
+    "Math/Arithmetic/Natural Numbers.md",
+    "Math/Arithmetic/Rational Numbers.md",
+    "Math/Arithmetic",
+    "Math",
+    "CPU.md",
+    "Ink/Drawing/2024.9.18 - 16.50pm.drawing",
     "Ink/Drawing/2024.9.18 - 15.47pm.drawing",
     "Ink/Drawing/2024.9.18 - 15.44pm.drawing",
-    "CPU.md",
     "Ink/Drawing",
     "Ink",
     "test File.md"

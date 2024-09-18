@@ -1,1 +1,7 @@
-{}
+{
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "cssTheme": "Royal Velvet",
+  "enabledCssSnippets": [
+    "Notebook Backgrounds"
+  ]
+}
